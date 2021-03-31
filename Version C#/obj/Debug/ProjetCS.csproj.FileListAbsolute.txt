@@ -1,0 +1,14 @@
+D:\OneDrive\OneDrive - De Vinci\A1\Semestre 1\Informatique\Project\ProjetCS\bin\Debug\ProjetCS.exe.config
+D:\OneDrive\OneDrive - De Vinci\A1\Semestre 1\Informatique\Project\ProjetCS\bin\Debug\ProjetCS.exe
+D:\OneDrive\OneDrive - De Vinci\A1\Semestre 1\Informatique\Project\ProjetCS\bin\Debug\ProjetCS.pdb
+D:\OneDrive\OneDrive - De Vinci\A1\Semestre 1\Informatique\Project\ProjetCS\obj\Debug\ProjetCS.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - De Vinci\A1\Semestre 1\Informatique\Project\ProjetCS\obj\Debug\ProjetCS.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - De Vinci\A1\Semestre 1\Informatique\Project\ProjetCS\obj\Debug\ProjetCS.exe
+D:\OneDrive\OneDrive - De Vinci\A1\Semestre 1\Informatique\Project\ProjetCS\obj\Debug\ProjetCS.pdb
+D:\Esilv\Informatique S1\Project\ProjetCS\bin\Debug\ProjetCS.exe.config
+D:\Esilv\Informatique S1\Project\ProjetCS\bin\Debug\ProjetCS.exe
+D:\Esilv\Informatique S1\Project\ProjetCS\bin\Debug\ProjetCS.pdb
+D:\Esilv\Informatique S1\Project\ProjetCS\obj\Debug\ProjetCS.csprojAssemblyReference.cache
+D:\Esilv\Informatique S1\Project\ProjetCS\obj\Debug\ProjetCS.csproj.CoreCompileInputs.cache
+D:\Esilv\Informatique S1\Project\ProjetCS\obj\Debug\ProjetCS.exe
+D:\Esilv\Informatique S1\Project\ProjetCS\obj\Debug\ProjetCS.pdb
